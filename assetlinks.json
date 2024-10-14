@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gigaly.userapp",
+      "sha256_cert_fingerprints": [
+        "DD:49:A5:48:4B:A5:A5:EB:D6:7D:0B:F9:A3:49:90:32:41:75:E6:12:58:71:50:FB:50:80:74:EC:11:CE:A2:04"
+      ]
+    }
+  }
+]
